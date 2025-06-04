@@ -1,4 +1,4 @@
-# Mandlebrot set generator with julia capablities!
+# Mandlebrot set generator with julia capabilities!
 
 ## Controls:
 - Hold LMB to move around 
@@ -11,6 +11,6 @@ Future plans:
 
 ## Visuals:
 
-![Mandlebrot Set] (./res/mandlebrotset.png)
+![Mandlebrot Set](./res/mandlebrotset.png)
 
-![Possible julia set] (./res/julia.png)
+![Possible julia set](./res/julia.png)
